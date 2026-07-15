@@ -46,17 +46,6 @@ A robust Verify Smart Contract Tool includes:
 - **Reporting Dashboard**: Detailed verification results and discrepancies
 - **Integration Hub**: API support for automated workflows
 
-**Operational Logic Flowchart**
-
-```mermaid
-flowchart TD
-    A[Contract Address Input] --> B[Bytecode Retrieval from Blockchain]
-    B --> C[Source Code Compilation (if available)]
-    C --> D[Bytecode & Metadata Comparison]
-    D --> E[Verification Result Generation]
-    E --> F[Detailed Report & Confidence Score]
-    F --> G[User Review & Export]
-```
 
 ### Key Features and Technical Advantages
 
